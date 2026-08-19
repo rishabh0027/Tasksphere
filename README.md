@@ -1,5 +1,4 @@
-````markdown
-# 🚀 TaskSphere
+🚀 TaskSphere
 
 ## Intelligent Team Task & Collaboration Management Platform
 
@@ -9,7 +8,6 @@ The platform is built with a modern **React + Vite frontend**, **Node.js + Expre
 
 It also includes integrations and utilities for **Google Calendar, Cloudinary, voice-assisted task creation, scheduled reminders, audit logging, login activity tracking, and PDF reporting**.
 
----
 
 # 📋 Table of Contents
 
@@ -46,7 +44,6 @@ It also includes integrations and utilities for **Google Calendar, Cloudinary, v
 - [Author](#-author)
 - [License](#-license)
 
----
 
 # 🎯 Overview
 
@@ -324,7 +321,6 @@ The backend also includes scheduled task processing using **node-cron**.
 
 This enables recurring background operations such as reminder processing.
 
----
 
 # 📢 Announcements
 
